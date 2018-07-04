@@ -1,79 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5886ba0f-da4e-435e-95bf-4b56667c6573" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/custom-form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/custom-main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/ie10-viewport-bug-workaround.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/MyriadWebPro.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/MyriadWebPro.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/MyriadWebPro.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/MyriadWebPro.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/MyriadWebPro.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/android-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/android-icon-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/android-icon-36x36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/android-icon-48x48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/android-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/android-icon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-57x57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-76x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/favicon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/ms-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/ms-icon-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/ms-icon-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/ms-icon-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/accordion-chevron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/back-to-top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/bc_logo_transparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/bullet-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/down-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/emergencymommy_feature_640x300px.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/gov3_bc_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/horseback_mtns_cropped.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/icon_share.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/inlinesearch-button-off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/inlinesearch-button-on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/menu-open-mobile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/nav-ribbon-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/tile_searchbox_placeholder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/js/ie10-viewport-bug-workaround.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/js/misc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/static/js/navMenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeedReader/templates/FeedReader/home.html" afterDir="false" />
-    </list>
+    <list default="true" id="5886ba0f-da4e-435e-95bf-4b56667c6573" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,8 +38,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FeedReader/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="59" column="45" lean-forward="true" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+            <state relative-caret-position="204">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="40" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -178,7 +106,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1484" />
     <option name="y" value="145" />
     <option name="width" value="1382" />
@@ -201,24 +129,6 @@
               <item name="SecNewsFeedReader" type="b2602c69:ProjectViewProjectNode" />
               <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
               <item name="FeedReader" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SecNewsFeedReader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
-              <item name="FeedReader" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SecNewsFeedReader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
-              <item name="FeedReader" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="FeedReader" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SecNewsFeedReader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
-              <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -287,17 +197,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1472" y="244" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="1484" y="145" width="1382" height="744" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -366,8 +275,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FeedReader/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="45" lean-forward="true" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+        <state relative-caret-position="204">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="40" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>

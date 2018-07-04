@@ -10,7 +10,7 @@ from FeedReader.models import Categories
 import feedparser
 
 
-file_opml = 'C:\\Users\\PRRAI\\Desktop\\rssfeed.opml'
+file_opml = 'rssfeed.opml'
 
 
 def home(request):
