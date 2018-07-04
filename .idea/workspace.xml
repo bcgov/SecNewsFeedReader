@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5886ba0f-da4e-435e-95bf-4b56667c6573" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/custom-form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/custom-main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/ie10-viewport-bug-workaround.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/MyriadWebPro.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/MyriadWebPro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/MyriadWebPro.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/MyriadWebPro.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/MyriadWebPro.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/android-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/android-icon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/android-icon-36x36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/android-icon-48x48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/android-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/android-icon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/ms-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/ms-icon-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/ms-icon-310x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/icons/ms-icon-70x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/accordion-chevron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/back-to-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/bc_logo_transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/bullet-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/down-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/emergencymommy_feature_640x300px.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/gov3_bc_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/horseback_mtns_cropped.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/icon_share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/inlinesearch-button-off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/inlinesearch-button-on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/menu-open-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/nav-ribbon-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/images/tile_searchbox_placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/js/ie10-viewport-bug-workaround.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/js/misc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/static/js/navMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FeedReader/templates/FeedReader/home.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SecNewsFeedReader/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1242">
+              <caret line="123" selection-start-line="123" selection-end-line="123" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SecNewsFeedReader/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+              <folding>
+                <element signature="e#641#673#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FeedReader/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="59" column="45" lean-forward="true" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FeedReader/templates/FeedReader/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4012">
+              <caret line="236" column="12" lean-forward="true" selection-start-line="236" selection-start-column="12" selection-end-line="236" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FeedReader/static/js/misc.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FeedReader/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SecNewsFeedReader/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SecNewsFeedReader/settings.py" />
+        <option value="$PROJECT_DIR$/SecNewsFeedReader/urls.py" />
+        <option value="$PROJECT_DIR$/FeedReader/models.py" />
+        <option value="$PROJECT_DIR$/FeedReader/templates/FeedReader/home.html" />
+        <option value="$PROJECT_DIR$/FeedReader/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1484" />
+    <option name="y" value="145" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SecNewsFeedReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecNewsFeedReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
+              <item name="FeedReader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecNewsFeedReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
+              <item name="FeedReader" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecNewsFeedReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
+              <item name="FeedReader" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="FeedReader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecNewsFeedReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
+              <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PRRAI\PycharmProjects\SecNewsFeedReader\FeedReader" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SecNewsFeedReader" type="Python.DjangoServer" factoryName="Django server">
+      <module name="SecNewsFeedReader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="SecNewsFeedReader.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5886ba0f-da4e-435e-95bf-4b56667c6573" name="Default" comment="" />
+      <created>1530736652854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530736652854</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1472" y="244" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="manage.py@SecNewsFeedReader" weight="0.32857144" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SecNewsFeedReader/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecNewsFeedReader/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecNewsFeedReader/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding>
+            <element signature="e#641#673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeedReader/static/js/misc.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeedReader/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeedReader/templates/FeedReader/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4012">
+          <caret line="236" column="12" lean-forward="true" selection-start-line="236" selection-start-column="12" selection-end-line="236" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeedReader/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="45" lean-forward="true" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
