@@ -67,9 +67,9 @@ def home(request):
 
 
     XML_LINKS= ['https://nakedsecurity.sophos.com/feed/', 'http://feeds.feedburner.com/govinfosecurity/com', 'http://feeds.feedburner.com/SecurityIntelligence']
-    #for object in objects:
-       #for title,xmls in object.sub_headings:
-            #XML_LINKS.append(xmls)
+    for object in objects:
+        for title,xmls in object.sub_headings:
+             XML_LINKS.append(xmls)
 
     Feed=[]
 
@@ -79,7 +79,10 @@ def home(request):
             f = Feeds()
             f.title = post.title
             f.link = post.link
-            f.description = post.description
+            try:
+                f.description=post.description
+            except:
+                f.description = ''
             Feed.append(f)
 
 
