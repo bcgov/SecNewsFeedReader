@@ -43,10 +43,6 @@
     <meta name="msapplication-TileColor" content="#ffffff"/>
     <meta name="msapplication-TileImage" content="{% static 'icons/ms-icon-144x144.png' %}"/>
     <meta name="theme-color" content="#ffffff"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 
 
@@ -142,15 +138,15 @@
                     <div class="row navbar-collapse collapse">
                         <div class="col-xs-12">
                             <ul class="leftNav nav navbar-nav">
-                                <h4> FeedReader</h4>
+                                <h2> FeedReader</h2>
                                 {% for object in objects %}
                                 <li>
                                     <div class="leftNav-item-wrapper">
-                                        <a href="#!" data-toggle="collapse" data-target="#{{ object.top_heading | length }}" style="background-color:#003366 ; color:white; cursor: pointer;padding: 18px;width: 100%;border: none;text-align: left;outline: none;font-size: 15px;"> {{ object.top_heading}}</a>
-                                                <div id = "{{ object.top_heading | length }}" class = "collapse" >
+                                        <button class="collapsible" style="background-color:#003366 ; color:white; cursor: pointer;padding: 18px;width: 100%;border: none;text-align: left;outline: none;font-size: 15px;"> {{ object.top_heading}}</button>
+                                                <div class = "content">
                                                     {%  for item, link in object.sub_headings%}
                                                     <a href="{{ link}}" style="text-decoration: none"> {{ item}}</a>
-                                                    {% endfor %}
+                                                        {% endfor %}
                                                 </div>
                                     </div>
                                 </li>
@@ -166,7 +162,7 @@
             <div id="main-content" role="main" class="contentPageMainColumn col-sm-11 col-md-7 col-lg-9">
                 <h1>Feeds </h1>
                 {% for feed in Feed %}
-                    <div style="background-color:whitesmoke;"><p> <a href="{{ feed.link }}" target="_blank" style="text-decoration: none"><h4>{{ feed.title }}</h4></a>
+                    <div style="background-color:whitesmoke;"><p> <a href="{{ feed.link }}" target="_blank" style="text-decoration: none"><h2>{{ feed.title }}</h2></a>
                      {{ feed.description|safe }}
                     </p></div><br>
                 {%  endfor %}
@@ -228,23 +224,21 @@
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="{%  static 'js/ie10-viewport-bug-workaround.js' %}"></script>
     <script type="text/javascript">
-    <!--
-        var coll = document.getElementsByClassName("collapsible");
+var coll = document.getElementsByClassName("collapsible");
 var i;
 
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     this.classList.toggle("active");
     var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
     } else {
-      content.style.display = "block";
+      content.style.maxHeight = content.scrollHeight + "px";
     }
   });
 }
-    //-->
-    </script>
+</script>
 
 
 </body>

@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5886ba0f-da4e-435e-95bf-4b56667c6573" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FeedReader/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/FeedReader/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FeedReader/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/FeedReader/static/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FeedReader/templates/FeedReader/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/FeedReader/templates/FeedReader/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FeedReader/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/FeedReader/views.py" afterDir="false" />
     </list>
@@ -42,8 +44,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FeedReader/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+            <state relative-caret-position="1394">
+              <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -51,15 +53,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FeedReader/templates/FeedReader/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="144" column="35" selection-start-line="144" selection-start-column="35" selection-end-line="144" selection-end-column="35" />
+            <state relative-caret-position="216">
+              <caret line="234" column="37" lean-forward="true" selection-start-line="234" selection-start-column="37" selection-end-line="234" selection-end-column="37" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FeedReader/static/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="2246" column="1" lean-forward="true" selection-start-line="2246" selection-start-column="1" selection-end-line="2246" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FeedReader/static/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1632" />
           </provider>
         </entry>
       </file>
@@ -71,8 +89,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FeedReader/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="50" />
+            <state relative-caret-position="170">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -95,6 +113,7 @@
         <option value="$PROJECT_DIR$/FeedReader/models.py" />
         <option value="$PROJECT_DIR$/FeedReader/views.py" />
         <option value="$PROJECT_DIR$/FeedReader/templates/FeedReader/home.html" />
+        <option value="$PROJECT_DIR$/FeedReader/static/css/main.css" />
       </list>
     </option>
   </component>
@@ -107,8 +126,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1552" />
+    <option name="y" value="166" />
+    <option name="width" value="1364" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectView">
@@ -127,6 +148,27 @@
               <item name="SecNewsFeedReader" type="b2602c69:ProjectViewProjectNode" />
               <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
               <item name="FeedReader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecNewsFeedReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
+              <item name="FeedReader" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecNewsFeedReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
+              <item name="FeedReader" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecNewsFeedReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecNewsFeedReader" type="462c0819:PsiDirectoryNode" />
+              <item name="FeedReader" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.css" type="620a8d5e:NestingTreeNode" />
             </path>
             <path>
               <item name="SecNewsFeedReader" type="b2602c69:ProjectViewProjectNode" />
@@ -209,7 +251,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
+    <frame x="1358" y="-8" width="1696" height="1066" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -217,9 +259,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33713356" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21743697" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1274074" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24821429" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -243,6 +285,56 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SecNewsFeedReader/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecNewsFeedReader/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding>
+            <element signature="e#641#673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeedReader/templates/FeedReader/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4199">
+          <caret line="247" column="7" selection-start-line="247" selection-start-column="7" selection-end-line="247" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeedReader/static/js/misc.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeedReader/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecNewsFeedReader/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeedReader/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="82" column="26" lean-forward="true" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SecNewsFeedReader/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2091">
@@ -287,9 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4199">
           <caret line="247" column="7" selection-start-line="247" selection-start-column="7" selection-end-line="247" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -412,28 +501,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FeedReader/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="50" />
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FeedReader/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+        <state relative-caret-position="1394">
+          <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FeedReader/static/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1632" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FeedReader/templates/FeedReader/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="144" column="35" selection-start-line="144" selection-start-column="35" selection-end-line="144" selection-end-column="35" />
+        <state relative-caret-position="216">
+          <caret line="234" column="37" lean-forward="true" selection-start-line="234" selection-start-column="37" selection-end-line="234" selection-end-column="37" />
           <folding>
             <element signature="n#style#0;n#button#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeedReader/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="2246" column="1" lean-forward="true" selection-start-line="2246" selection-start-column="1" selection-end-line="2246" selection-end-column="1" />
         </state>
       </provider>
     </entry>
